@@ -1,14 +1,16 @@
-import Breadcrumb from '@/app/Components/Breadcrumb'
 import React from 'react'
 import LeftSide from '../_components/LeftSide'
 import More_Info from '../_components/More_Info'
-import Layout from '@/Components/Layout/Layout'
+import Layout from '@/app/Components/Layout/Layout'
+import Breadcrumb from '@/app/Components/Breadcrumb'
+
 
 function page() {
   return (
     <>
     <Layout>
-      <Breadcrumb page_title="Software Development" />
+      <Breadcrumb page_title="Software Development"/>
+      {/* <Breadcrumb page_title="Software Development" /> */}
       {/*Start Services Details*/}
   <section className="services-details bg-white">
     <div className="container">

@@ -1,4 +1,4 @@
-import Layout from "@/Components/Layout/Layout";
+import Layout from "./Components/Layout/Layout";
 import Image from "next/image";
 import Slidertwo from "./Components/Home/Slidertwo";
 import Link from "next/link";

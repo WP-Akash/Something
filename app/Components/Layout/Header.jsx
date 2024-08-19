@@ -1,10 +1,10 @@
 import React from 'react'
 
-import "../../public/css/bootstrap.min.css"
-import "../../public/plugins/revolution/css/settings.css"
-import "../../public/plugins/revolution/css/layers.css"
-import "../../public/plugins/revolution/css/navigation.css"
-import "../../public/css/style.css"
+import "@/public/css/bootstrap.min.css"
+import "@/public/plugins/revolution/css/settings.css"
+import "@/public/plugins/revolution/css/layers.css"
+import "@/public/plugins/revolution/css/navigation.css"
+import "@/public/css/style.css"
 import Menu from './Menu'
 
 // import "../../public/css/style.css"

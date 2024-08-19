@@ -1,7 +1,7 @@
 import React from 'react'
 import Breadcrumb from '../Components/Breadcrumb'
 import Single_service from './_components/Single_service'
-import Layout from '@/Components/Layout/Layout';
+import Layout from '../Components/Layout/Layout';
 // Define props
 const dynamicHref = "/services/software-development";
 const dynamicHref2 = "/services/web-application";

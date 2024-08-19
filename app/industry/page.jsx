@@ -11,7 +11,7 @@ import Ecommerce from './_components/Ecommerce'
 import Game from './_components/Game'
 import Travelandtourism from './_components/Travel-and-tourism'
 import Automotive from './_components/Automotive'
-import Layout from '@/Components/Layout/Layout'
+import Layout from '../Components/Layout/Layout'
 
 function page() {
     return (

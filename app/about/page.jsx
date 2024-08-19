@@ -5,7 +5,7 @@ import Main_team from '../Components/Home/Team/Main_team'
 import VideoSection from '../Components/Home/VideoSection'
 import ClientsSection from '../Components/Home/ClientsSection'
 import TestimonialSection from '../Components/Home/TestimonialSection'
-import Layout from '@/Components/Layout/Layout'
+import Layout from '../Components/Layout/Layout'
 
 function page() {
   return (

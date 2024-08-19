@@ -1,6 +1,6 @@
 import React from 'react'
 import Breadcrumb from '../Components/Breadcrumb'
-import Layout from '@/Components/Layout/Layout'
+import Layout from '../Components/Layout/Layout'
 import Link from 'next/link'
 
 function page() {
